@@ -1,2 +1,5 @@
 git-commit-guide
 .idea
+*.class
+*.iml
+java8/out
